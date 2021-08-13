@@ -1,0 +1,11 @@
+{
+    "articles": [
+        {
+            "name": "Pedales shimano",
+            "count": 2,
+            "unitCost": 100,
+            "currency": "UYU",
+            "src": "img/pedales.jpg"
+        }
+    ]
+}
