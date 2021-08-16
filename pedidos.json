@@ -2,6 +2,8 @@
     "articles": [
         {
             "name": "Pedales shimano",
+            "idcustomer":"2",
+            "date":"12-08-21",
             "count": 2,
             "unitCost": 100,
             "currency": "UYU",

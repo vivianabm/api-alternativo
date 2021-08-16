@@ -1,24 +1,28 @@
 
 [
     {
+        "idcategoria":"MTB",
         "name": "Bicicletas MTB",
         "description": "Bicicletas de montañas de variedad de marcas de la mejor calidad",
         "productCount": "5",
         "imgSrc":"img/mtbbike.jpg"
     },  
     {
+        "idcategoria":"GRAVEL",
         "name": "Bicicletas Gravel",
         "description": "Las bicicletas gravel pueden uilizarse en cualquier parte, en carretera o fuera de ella",
         "productCount": "3",
         "imgSrc":"img/gravelbike.jpg"
     },
     {
+        "idcategoria":"RUTA",
         "name": "Bicicletas de ruta",
         "description": "Bicicletas para brindarte el mejor rendimiento y velocidad en ruta",
         "productCount": "8",
         "imgSrc":"img/rutabike.jpg"
     },
     {
+        "idcategoria":"ACCESORIOS",
         "name": "Accesorios",
         "description": "Variedad de accesorios para bicicletas",
         "productCount": "15",

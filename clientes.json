@@ -1,0 +1,32 @@
+
+
+[
+    {
+        "idcustomer":"1",
+        "name": "Juan García",
+        "email": "juan12@gmail.com",
+        "adress":"8 de octubre 236,Salto",
+        "tel":"091235684"
+    },
+    {
+        "idcustomer":"2",
+        "name": "Betiana Rios",
+        "email": "betrio@gmail.com",
+        "adress":"18 de julio 654, Minas, Lavalleja",
+        "tel":"095638961"
+    },
+    {
+        "idcustomer":"3",
+        "name": "Miltón Otegui",
+        "email": "otegui84@gmail.com",
+        "adress":"Bvr. Artigas 3625, Montevideo",
+        "tel":"091369742"
+    },
+    {
+        "idcustomer":"4",
+        "name": "Karen Hernández",
+        "email": "kaluher@gmail.com",
+        "adress":"Acevedo Díaz 1253, Montevideo ",
+        "tel":"091365231"
+    }
+]
